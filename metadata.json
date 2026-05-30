@@ -1,0 +1,6 @@
+{
+  "name": "TraceRT",
+  "description": "Tactical offline-first hiker safety and backcountry GPS trail tracker with barometric altimeter, step sensor integration, and automatic satellite network email sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
